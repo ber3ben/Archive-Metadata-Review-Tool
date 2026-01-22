@@ -10,6 +10,7 @@ A tool that can read and pull Internet Archive metadata for review to complete a
 **6 Zero Setup/Installation** - Runs entirely in Google Colab, no local installation needed
 
 ### Quick Start
+Download .ipynb file, open it in Google Colab (https://colab.research.google.com/). You'll need to log into your Google account. 
 1. Enter an Internet Archive collection ID (or item identifiers)
 2. Run all cells in order (Runtime → Run all)
 3. Review the generated reports
